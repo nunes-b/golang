@@ -7,7 +7,7 @@ import "fmt"
 // String - Sequence of bytes
 // Integer
 // Float(float64/float32) - Decimal
-func main() {
+func types() {
 
 	fmt.Printf("Type %T - Value %v\n", true, true)
 	fmt.Printf("Type %T Value %v\n", "Rômulo", "Rômulo")
