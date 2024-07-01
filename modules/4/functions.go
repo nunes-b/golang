@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func functions() {
 	var a int
 	var b int
 	imprime("digite dois valores para somar.:")
