@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func zero_values() {
 	// go zero values is a default value for a variable
 	var i int
 	var f float64
