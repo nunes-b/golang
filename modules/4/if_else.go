@@ -8,7 +8,7 @@ func if_else() {
 	if valor == 1 {
 		fmt.Printf("O valor é: %v\n", valor)
 	} else {
-		fmt.Printf("O valor é diferente de 1, o valor é:: %v\n", valor)
+		fmt.Printf("O valor é diferente de 1, o valor é: %v\n", valor)
 	}
 
 	if 7%2 == 0 {
