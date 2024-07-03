@@ -7,7 +7,7 @@ import (
 //Loops
 // Laçõs de repetições
 
-func main() {
+func for_loops() {
 	// sum := 0
 
 	// * for *
